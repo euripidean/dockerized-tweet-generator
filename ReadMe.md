@@ -14,7 +14,6 @@
 ```bash
 docker build -t tweet-generator .
 ```
-Note: You will need to cd into the **Code** folder.
 
 ### 2. Run the Container
 
