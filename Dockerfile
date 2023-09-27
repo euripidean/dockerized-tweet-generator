@@ -1,4 +1,3 @@
-# Set up the base using python for the image
 FROM python:3.7-slim-buster
 
 # Copy the contents of the Code file to app
